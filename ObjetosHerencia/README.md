@@ -1,3 +1,9 @@
+Nombre: Alejandra Santillán Villarreal.
+
+Correo: ale.santillan.0312@gmail.com.
+
+
+
 ----𝕆𝔹𝕁𝔼𝕋𝕆𝕊 ℍ𝔼ℝ𝔼ℕℂ𝕀𝔸 (𝔽𝕀𝔾𝕌ℝ𝔸𝕊)----
 
 1.- Descargar el proyecto .java de su respectiva carpeta.
