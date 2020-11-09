@@ -1,3 +1,8 @@
+Nombre: Alejandra Santillán Villarreal.
+
+Correo: ale.santillan.0312@gmail.com
+
+
 ----Coͦnveͤrͬtͭiͥdͩoͦrͬ Númͫeͤrͬoͦs Deͤcͨiͥmͫaͣleͤs aͣ Roͦmͫaͣnoͦs----
 
 1.- Descargar el archivo .java de la carpeta y abrirlo en cualquier entorno de desarrollo (Netbeans, eclipse, etc...).
